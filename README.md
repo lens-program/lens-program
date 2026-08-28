@@ -9,7 +9,7 @@ of **identifiability, recoverability, and learning in complex statistical models
 > **Our central question:** What can we learn from the available data and models — even when
 > full identification is impossible?
 
-<img src="docs/LENS_poster_web.jpg" width="380" align="right" alt="LENS Program poster">
+<img src="docs/lens_logo.png" width="200" align="right" alt="LENS Program logo">
 
 ## Why this matters
 
