@@ -17,9 +17,9 @@ repository in the organization and be linked from the README rather than vendore
 
 ## A note on data
 
-Do not commit data that is not yours to share. Several members work with Tribal, clinical, or
-restricted surveillance data governed by data-use agreements. Where original data cannot be
-shared, prefer synthetic data that reproduces the analysis structure.
+Do not commit data that is not yours to share. Members may work with data governed by data-use
+agreements, ethics approvals, or other restrictions. Where original data cannot be shared,
+prefer synthetic data that reproduces the analysis structure.
 
 ## How to propose something
 
