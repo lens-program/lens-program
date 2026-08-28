@@ -61,7 +61,11 @@ please contact:
 - **Emily N. Peterson, PhD**, Emory University — emily.nancy.peterson@emory.edu
 - **Lance Waller, PhD**, Emory University — lwaller@emory.edu
 
-[Download the program flyer](/docs/LENS_poster.png)
+## Program flyer
+
+<a href="/docs/LENS_poster.png"><img src="/docs/LENS_poster_web.jpg" width="450" alt="LENS Program flyer"></a>
+
+[Download the full-resolution flyer](/docs/LENS_poster.png)
 
 
 ---
