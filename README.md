@@ -67,12 +67,33 @@ please contact:
 
 [Download the full-resolution flyer](docs/LENS_poster.png)
 
-## Repository contents
+## How we use this repository
+
+**You do not need to know git.** Everything here can be added from the browser: on any folder
+page, use **Add file → Create new file**, type a filename, write in Markdown, and commit. That
+is the expected way for most members to contribute — cloning is optional.
 
 | path | what it holds |
 |---|---|
-| `docs/` | Program flyer and shared materials |
-| `meetings/` | Agendas and notes from the monthly group and PRISM |
+| `meetings/` | Agendas and notes from the monthly group, as `YYYY-MM-DD.md` |
+| `talks/` | Slides and materials from presentations, one folder per talk |
+| `reading/` | Running reading list — citations and links, not PDFs |
+| `docs/` | Flyer, logo, shared materials |
 | `index.md` | Source for the project website |
 
-Contributions from members are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
+**Issues are our running agenda.** If you want to raise a topic, propose a paper, or ask a
+question between meetings, [open an issue](../../issues) rather than sending email. It threads,
+it is searchable, and it survives everyone forgetting what was raised three meetings ago.
+
+**Discussions are for open-ended conversation.** Questions that are not tasks — "does anyone know
+of work on X", "how do people think about Y" — belong in
+[Discussions](../../discussions). Anyone can join, including people outside Emory, which is the
+point of the monthly group.
+
+**Code lives in its own repository once it grows up.** Prototypes and scratch work belong in the
+PRISM working repository. When something matures into a method implementation, a package, or a
+paper's reproduction materials, it gets its own public repository in the
+[lens-program](https://github.com/lens-program) organization and is linked from here. This keeps
+the front door readable instead of turning it into a junk drawer.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
