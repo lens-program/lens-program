@@ -75,9 +75,9 @@ is the expected way for most members to contribute — cloning is optional.
 
 | path | what it holds |
 |---|---|
-| `meetings/` | Agendas and notes from LENS and PRISM meetings, as `YYYY-MM-DD-<group>.md` |
+| `meetings/` | Agendas and notes from LENS meetings, as `YYYY-MM-DD-<group>.md` |
 | `talks/` | Slides and materials from presentations, one folder per talk |
-| `readings/` | Running reading list — citations and links, not PDFs |
+| `readings/` | Running reading list — citations, links, and PDFs |
 | `docs/` | Flyer, logo, shared materials |
 | `index.md` | Source for the project website |
 
