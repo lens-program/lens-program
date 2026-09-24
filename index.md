@@ -11,6 +11,12 @@ of **identifiability, recoverability, and learning in complex statistical models
 
 <img src="/docs/lens_logo.png" width="200" align="right" alt="LENS Program logo">
 
+## Upcoming meeting
+
+**LENS Monthly Group — Tuesday, October 6, 2026, 3:00–4:00 pm Eastern, via Zoom**
+
+The monthly group meets the first Tuesday of each month, 3:00–4:00 pm Eastern.
+
 ## Why this matters
 
 Identifiability is treated differently across statistics, optimization, and mathematical
