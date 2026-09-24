@@ -1,6 +1,6 @@
 # Talks
 
-Slides and materials from LENS Monthly Group presentations.
+Slides and materials from LENS Monthly Group presentations, shared for review.
 
 One folder per talk, named `YYYY-MM-DD-lastname/`, containing the slides and anything else the
 speaker wants to share (code, references, a short abstract in `README.md`).
