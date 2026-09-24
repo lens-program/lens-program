@@ -1,4 +1,4 @@
-# Reading
+# Readings
 
 Papers and references the group has discussed or wants to.
 
