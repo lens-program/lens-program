@@ -75,7 +75,7 @@ is the expected way for most members to contribute — cloning is optional.
 
 | path | what it holds |
 |---|---|
-| `meetings/` | Agendas and notes from the monthly group, as `YYYY-MM-DD.md` |
+| `meetings/` | Agendas and notes from LENS and PRISM meetings, as `YYYY-MM-DD-<group>.md` |
 | `talks/` | Slides and materials from presentations, one folder per talk |
 | `reading/` | Running reading list — citations and links, not PDFs |
 | `docs/` | Flyer, logo, shared materials |
