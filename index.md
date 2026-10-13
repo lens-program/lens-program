@@ -9,8 +9,6 @@ of **identifiability, recoverability, and learning in complex statistical models
 > **Our central question:** What can we learn from the available data and models — even when
 > full identification is impossible?
 
-**New:** [LENS Collective Knowledge Base](https://lens-program.github.io/collective-knowledge-base/), a shared, living reference on identifiability and recoverability across fields. [Contribute on GitHub](https://github.com/lens-program/collective-knowledge-base).
-
 <img src="/docs/lens_logo.png" width="200" align="right" alt="LENS Program logo">
 
 ## Upcoming meeting
@@ -50,16 +48,6 @@ and analysis, code sharing, and preparing work to share with the monthly LENS gr
 - How do spatial and hierarchical structures influence identifiability?
 - How do likelihood-based and objective-function approaches relate?
 - How should we represent uncertainty when information varies across model components?
-
-## Collective Knowledge Base
-
-A living, shared reference on identifiability, recoverability, and related concepts. Each concept
-page collects definitions from different fields side by side, with citations and contributor
-attribution. Seminar notes and open questions are linked to the concepts they touch. Any member
-can add a definition, a reference, or a question.
-
-**[Open the Collective Knowledge Base →](https://lens-program.github.io/collective-knowledge-base/)**
-· [source and how to contribute](https://github.com/lens-program/collective-knowledge-base)
 
 ## Application areas
 
