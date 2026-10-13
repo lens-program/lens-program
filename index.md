@@ -9,6 +9,8 @@ of **identifiability, recoverability, and learning in complex statistical models
 > **Our central question:** What can we learn from the available data and models — even when
 > full identification is impossible?
 
+**New:** [LENS Collective Knowledge Base](https://lens-program.github.io/collective-knowledge-base/), a shared, living reference on identifiability and recoverability across fields. [Contribute on GitHub](https://github.com/lens-program/collective-knowledge-base).
+
 <img src="/docs/lens_logo.png" width="200" align="right" alt="LENS Program logo">
 
 ## Upcoming meeting
