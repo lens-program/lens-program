@@ -15,7 +15,7 @@ of **identifiability, recoverability, and learning in complex statistical models
 
 ## Upcoming meeting
 
-**LENS Monthly Group — Tuesday, October 6, 2026, 3:00–4:00 pm Eastern**
+**LENS Monthly Group — Tuesday, November 3, 2026, 3:00–4:00 pm Eastern**
 
 **Location:** Zoom — [https://zoom.us/my/emilynpeterson](https://zoom.us/my/emilynpeterson)
 
